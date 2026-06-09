@@ -48,7 +48,7 @@ ashes-secure-chat/
 └── docker-compose.yml          # Global structural orchestration blueprint
 
 
-🚀 Orchestration & Launch Guide
+# 🚀 Orchestration & Launch Guide
 Prerequisites
 Ensure your terminal environment has the following runtimes active:
 
