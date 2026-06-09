@@ -46,18 +46,3 @@ ashes-secure-chat/
 │   ├── tailwind.config.js      # Custom theme definitions
 │   └── package.json            # Client ecosystem descriptors
 └── docker-compose.yml          # Global structural orchestration blueprint
-
-
-## 🚀 Orchestration & Launch Guide
-### Prerequisites
-Ensure your terminal environment has the following runtimes active:
-
-Docker & Docker Compose
-
-Git
-
-One-Command Deployment
-ASHES utilizes a multi-stage unified Docker composition to spin up the network topography without manual dependency builds. From the repository root, run:
-
-Bash
-docker compose up --build
